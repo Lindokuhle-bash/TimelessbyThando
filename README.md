@@ -11,7 +11,8 @@
 
 ## 🚀 Live Demo
 Visit the portfolio here:  
-👉 [Timeless by Thando on GitHub Pages](https://yourusername.github.io/timeless-by-thando/)
+👉 [Timeless by Thando on GitHub Pages](https://lindokuhle-bash.github.io/TimelessbyThando/
+)
 
 ## 🛠️ Built With
 - HTML5
