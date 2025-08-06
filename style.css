@@ -82,7 +82,7 @@ nav a.active {
   padding: 140px 20px 80px;
   background: 
     linear-gradient(to bottom, rgba(255, 235, 217, 0.7), rgba(255, 253, 246, 0.9)),
-    "url("images/WhatsApp%20Image%202025-07-30%20at%2017.37.31_3b0af0e0.jpg") no-repeat center center / cover;
+    "url("WhatsApp%20Image%202025-07-30%20at%2017.37.31_3b0af0e0.jpg") no-repeat center center / cover;
   text-align: center;
   position: relative;
 }
@@ -326,6 +326,7 @@ footer {
     gap: 12px;
   }
 }
+
 
 
 
