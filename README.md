@@ -20,7 +20,7 @@ Visit the portfolio here:
 - Google Fonts
 
 ## 📸 Preview
-_Add a screenshot of your homepage once deployed._
+<img width="1856" height="968" alt="Screenshot 2025-08-06 230220" src="https://github.com/user-attachments/assets/c4e81c60-c631-47a2-ad3e-8cedf25cf3b0" />
 
 ## 📬 Contact
 - **Instagram**: [@timelessbythando](https://www.instagram.com/timeless_by_thando/)  
